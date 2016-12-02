@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Egill Sveinbjornsson",
-    "label": "Programmer",
+    "name": "Egill Sveinbjörnsson",
+    "label": "Software Developer",
     "picture": "https://avatars2.githubusercontent.com/u/5672257?v=3&u=ba932d190590afd0f8e92a08a77b25b4dc09ca38&s=400",
     "email": "egillsveinbjorns@gmail.com",
     "phone": "(354) 616-8622",
@@ -42,7 +42,7 @@
       "endDate": "2016-06-15",
       "summary": "Intern at Fraunhofer USA Center for Experimental Software Engineering doing all kinds of software projects.",
       "highlights": [
-        "Played a big part of introducing them to Micro architecture and was the main software architect",
+        "Played a big part of introducing them to microservices architecture and was the main software architect",
         "Set up all our projects using TypeScript",
         "Introduced them to build process best practices, using SASS for CSS, using webpack to bundle and more"
       ]
@@ -82,8 +82,8 @@
     },
     {
       "institution": "Dale Carnegie",
-      "area": "Self Improvement",
-      "studyType": "Certificate of Achievement. Dale Carnegie Class - Next generation # 16.15.",
+      "area": "Certificate of Achievement",
+      "studyType": "Dale Carnegie Class - Next generation # 16.15.",
       "startDate": "2015-09-01",
       "endDate": "2016-11-01",
       "gpa": "",
