@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Egill Sveinbjornsson",
+    "label": "Programmer",
+    "picture": "https://avatars2.githubusercontent.com/u/5672257?v=3&u=ba932d190590afd0f8e92a08a77b25b4dc09ca38&s=400",
+    "email": "egillsveinbjorns@gmail.com",
+    "phone": "(354) 616-8622",
+    "website": "",
+    "summary": "I love meeting new people, learning and experiencing new things, programming and CrossFit.",
+    "location": {
+      "address": "",
+      "postalCode": "109",
+      "city": "Reykjavík",
+      "countryCode": "IS",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "egilsster",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Qlik",
+      "position": "Junior Software Engineer",
+      "website": "http://qlik.com",
+      "startDate": "2016-08-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Greatly improved development workflow by converting the Qlik DataMarket product to TypeScript"
+      ]
+    },
+    {
+      "company": "Fraunhofer USA",
+      "position": "Intern",
+      "website": "http://www.fraunhofer.org",
+      "startDate": "2016-01-15",
+      "endDate": "2016-06-15",
+      "summary": "Intern at Fraunhofer USA Center for Experimental Software Engineering doing all kinds of software projects.",
+      "highlights": [
+        "Played a big part of introducing them to Micro architecture and was the main software architect",
+        "Set up all our projects using TypeScript",
+        "Introduced them to build process best practices, using SASS for CSS, using webpack to bundle and more"
+      ]
+    },
+    {
+      "company": "Nýherji",
+      "position": "Field Service Technician",
+      "website": "http://www.nyherji.is",
+      "startDate": "2012-02-01",
+      "endDate": "2015-09-01",
+      "summary": "Finished the Windows XP to Windows 7 transition for Icelandair in Keflavik (february 2012 - march 2012). Worked as a field service technician and was assisting Icelandair Group (and subsidiaries) employees with technical problems (april 2012 - august 2013, summer 2014 and summer 2015).",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Reykjavik University",
+      "position": "Developer",
+      "website": "http://www.ru.is",
+      "startDate": "2015-12-01",
+      "endDate": "2016-12-21",
+      "summary": "Developed a part of Centris, which is a Learning Management System and Student Management System for Reykjavik University.",
+      "highlights": [
+        "My contributions to the projects was writing an API where teachers and student can send requests for certain things like changing a course. I also created the front end for this particular function. The API was written in NodeJS and the front end was done with AngularJS."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Reykjavík University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-08-01",
+      "endDate": "2016-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Dale Carnegie",
+      "area": "Self Improvement",
+      "studyType": "Certificate of Achievement. Dale Carnegie Class - Next generation # 16.15.",
+      "startDate": "2015-09-01",
+      "endDate": "2016-11-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Community College of Breiðholt",
+      "area": "Natural Sciences",
+      "studyType": "College",
+      "startDate": "2007-06-01",
+      "endDate": "2011-12-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LESS / SASS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Methods",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "Scrum"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Icelandic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent second language"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Daníel Brandur Sigurgeirsson (Adjunct at Reykjavik University)",
+      "reference": "Email: dabs@ru.is"
+    },
+    {
+      "name": "Sigurður Vignir Sigurðsson (Group leader of Field Service at Nýherji)",
+      "reference": "Phone: 859 - 1149"
+    }
+  ]
+}
