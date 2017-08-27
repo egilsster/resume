@@ -9,14 +9,14 @@
     "summary": "I love meeting new people, learning and experiencing new things, programming and CrossFit.",
     "location": {
       "address": "",
-      "postalCode": "109",
+      "postalCode": "111",
       "city": "Reykjavík",
       "countryCode": "IS",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "GitHub",
         "username": "egilsster",
         "url": ""
       }
@@ -31,6 +31,8 @@
       "endDate": "2018-01-01",
       "summary": "",
       "highlights": [
+        "Main maintainer for a backend service written in Java and deployed in a Docker container",
+        "Played the biggest part of deploying the Java service to AWS",
         "Greatly improved development workflow by converting the Qlik DataMarket product to TypeScript"
       ]
     },
@@ -85,7 +87,7 @@
       "area": "Certificate of Achievement",
       "studyType": "Dale Carnegie Class - Next generation # 16.15.",
       "startDate": "2015-09-01",
-      "endDate": "2016-11-01",
+      "endDate": "2015-11-01",
       "gpa": "",
       "courses": []
     },
@@ -113,17 +115,17 @@
       "keywords": []
     },
     {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Python",
       "level": "",
       "keywords": []
     },
     {
       "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
       "level": "",
       "keywords": []
     },
