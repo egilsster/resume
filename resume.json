@@ -12,13 +12,13 @@
       "postalCode": "111",
       "city": "Reykjavík",
       "countryCode": "IS",
-      "region": ""
+      "region": "Europe"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "egilsster",
-        "url": ""
+        "url": "https://github.com/egilsster"
       }
     ]
   },
@@ -29,10 +29,10 @@
       "website": "http://qlik.com",
       "startDate": "2016-08-01",
       "endDate": "2018-01-01",
-      "summary": "",
+      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS and intergrating the service into the Qlik product with various teams across the globe.",
       "highlights": [
-        "Main maintainer for a backend service written in Java and deployed in a Docker container",
-        "Played the biggest part of deploying the Java service to AWS",
+        "Primary maintainer for a backend service written in Java and deployed in a Docker container",
+        "Was responsible for on-boarding and deploying the Java service to our cloud pipeline",
         "Greatly improved development workflow by converting the Qlik DataMarket product to TypeScript"
       ]
     },
@@ -105,42 +105,47 @@
   "publications": [],
   "skills": [
     {
-      "name": "TypeScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "LESS / SASS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Databases",
+      "name": "Programming languages",
       "level": "",
       "keywords": [
-        "PostgreSQL",
+        "TypeScript",
+        "JavaScript",
+        "Java",
+        "Python",
+        "C++"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": [
+        "Building utilities and APIs"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "AWS",
+        "Terraform",
+        "Vault"
+      ]
+    },
+    {
+      "name": "Build services",
+      "level": "",
+      "keywords": [
+        "CircleCI",
+        "Jenkinks"
+      ]
+    },
+    {
+      "name": "Persistence",
+      "level": "",
+      "keywords": [
         "MongoDB",
-        "MySQL"
+        "PostgreSQL"
       ]
     },
     {

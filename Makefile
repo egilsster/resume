@@ -5,6 +5,9 @@ bootstrap:
 test:
 	resume test
 
+pdf:
+	resume export resume --theme paper --format pdf
+
 run:
 	resume serve --theme elegant
 
