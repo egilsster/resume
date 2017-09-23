@@ -24,6 +24,11 @@
         "network": "LinkedIn",
         "username": "esveinbjornsson",
         "url": "http://linkedin.com/in/esveinbjornsson/"
+      },
+      {
+        "network": "Facebook",
+        "username": "egilsster",
+        "url": "https://www.facebook.com/egilsster"
       }
     ]
   },
@@ -35,7 +40,8 @@
       "startDate": "2016-08-01",
       "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS and intergrating the service into the Qlik product with various teams across the globe.",
       "highlights": [
-        "Primary maintainer for a backend service written in Java and deployed in a Docker container",
+        "Team tech lead / Architect",
+        "Primary maintainer for a backend service written in Java and deployed in a Docker container to AWS",
         "Was responsible for on-boarding and deploying the Java service to our cloud pipeline",
         "Greatly improved development workflow by converting the Qlik DataMarket product to TypeScript"
       ]
@@ -116,6 +122,7 @@
         "JavaScript",
         "Java",
         "Python",
+        "Go",
         "C++"
       ]
     },
