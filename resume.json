@@ -38,7 +38,7 @@
       "position": "Junior Software Engineer",
       "website": "http://qlik.com",
       "startDate": "2016-08-01",
-      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS and intergrating the service into the Qlik product with various teams across the globe.",
+      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS, monitoring the service, and intergrating it into the Qlik product with various teams across the globe.",
       "highlights": [
         "Team tech lead / Architect",
         "Primary maintainer for a backend service written in Java and deployed in a Docker container to AWS",

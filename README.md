@@ -1,3 +1,3 @@
-# Compiled version 
+# JSON Resume
 
-https://registry.jsonresume.org/egillsveinbjorns
+[Compiled version](https://registry.jsonresume.org/egillsveinbjorns)
