@@ -23,7 +23,7 @@
       {
         "network": "LinkedIn",
         "username": "esveinbjornsson",
-        "url": "http://linkedin.com/in/esveinbjornsson/"
+        "url": "https://linkedin.com/in/esveinbjornsson/"
       },
       {
         "network": "Facebook",
@@ -36,11 +36,12 @@
     {
       "company": "Qlik",
       "position": "Software Engineer",
-      "website": "http://qlik.com",
+      "website": "https://qlik.com",
       "startDate": "2017-11-01",
-      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS, monitoring the service, and intergrating it into the Qlik product with various teams across the globe.",
+      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS, monitoring the service, and integrating it into the Qlik product with various teams across the globe.",
       "highlights": [
         "Team tech lead",
+        "Primary maintainer for a back end service now written for Node.js in TypeScript and deployed dockerized to AWS",
         "Cross team knowledge sharing to integrate our service to the Qlik ecosystem",
         "Led initiative to rewrite our Java service from scratch in Node.js using TypeScript. Included creating a prototype, pitching to management and making appropriate planning"
       ]
@@ -48,13 +49,13 @@
     {
       "company": "Qlik",
       "position": "Junior Software Engineer",
-      "website": "http://qlik.com",
+      "website": "https://qlik.com",
       "startDate": "2016-08-01",
       "endDate": "2017-10-31",
-      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS, monitoring the service, and intergrating it into the Qlik product with various teams across the globe.",
+      "summary": "As a Software Engineer I am part of a small team that is building a general purpose resource storage service that provides the ability to publish, relate, find, consume, and version resources of any type through a RESTful interface. It will serve as infrastructure across products and platforms (cloud, desktop, enterprise and mobile). My team and I are part of the process from A to Z, which includes designing and implementing the APIs, deploying the service to AWS, monitoring the service, and integrating it into the Qlik product with various teams across the globe.",
       "highlights": [
         "Team tech lead",
-        "Primary maintainer for a backend service written in Java and deployed in a Docker container to AWS",
+        "Primary maintainer for a back end service written in Java and deployed dockerized to AWS",
         "Was responsible for on-boarding and deploying the Java service to our cloud pipeline",
         "Greatly improved development workflow by converting the Qlik DataMarket product to TypeScript"
       ]
@@ -62,20 +63,20 @@
     {
       "company": "Fraunhofer USA",
       "position": "Intern",
-      "website": "http://www.fraunhofer.org",
+      "website": "https://www.fraunhofer.org",
       "startDate": "2016-01-15",
       "endDate": "2016-06-15",
       "summary": "Intern at Fraunhofer USA Center for Experimental Software Engineering doing all kinds of software projects.",
       "highlights": [
-        "Played a big part of introducing them to microservices architecture and was the main software architect",
+        "Played a big part of introducing them to micro services architecture and was the main software architect",
         "Set up all our projects using TypeScript",
-        "Introduced them to build process best practices, using SASS for CSS, using webpack to bundle and more"
+        "Introduced them to build process / dev environment best practices, using SASS for CSS, using webpack to bundle and more"
       ]
     },
     {
       "company": "Nýherji",
       "position": "Field Service Technician",
-      "website": "http://www.nyherji.is",
+      "website": "https://www.nyherji.is",
       "startDate": "2012-02-01",
       "endDate": "2015-09-01",
       "summary": "Finished the Windows XP to Windows 7 transition for Icelandair in Keflavik (february 2012 - march 2012). Worked as a field service technician and was assisting Icelandair Group (and subsidiaries) employees with technical problems (april 2012 - august 2013, summer 2014 and summer 2015).",
@@ -86,7 +87,7 @@
     {
       "organization": "Reykjavik University",
       "position": "Developer",
-      "website": "http://www.ru.is",
+      "website": "https://www.ru.is",
       "startDate": "2015-12-01",
       "endDate": "2016-12-21",
       "summary": "Developed a part of Centris, which is a Learning Management System and Student Management System for Reykjavik University.",
