@@ -1,6 +1,6 @@
 # JSON Resume
 
-[Compiled version](https://registry.jsonresume.org/egillsveinbjorns)
+[Compiled version](https://registry.jsonresume.org/egilsster)
 
 ## Prerequisites
 
